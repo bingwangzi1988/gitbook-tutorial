@@ -1,11 +1,11 @@
 # Summary
 
 * [前言](README.md)
-* [第一章](Chapter1/README.md)
-    * [第1节：衣](Chapter1/衣.md)
-    * [第2节：食](Chapter1/食.md)
-    * [第3节：住](Chapter1/住.md)
-    * [第4节：行](Chapter1/行.md)
+* [GitBook 从懵逼到入门](Gitbook使用/README.md)
+    * [第1节：是什么？](Gitbook使用/是什么.md)
+    * [第2节：为什么？](Gitbook使用/为什么.md)
+    * [第3节：怎么使用？](Gitbook使用/为什么.md)
+    * [第4节：用 GitHub + GitBook 发布一本新书](Gitbook使用/用 GitHub + GitBook 发布一本新书.md)
 * [第二章](Chapter2/README.md)
 * [第三章](Chapter3/README.md)
 * [第四章](Chapter4/README.md)
