@@ -6,7 +6,5 @@
     * [第2节：为什么？](Gitbook使用/为什么.md)
     * [第3节：怎么使用？](Gitbook使用/为什么.md)
     * [第4节：用 GitHub + GitBook 发布一本新书](Gitbook使用/用 GitHub + GitBook 发布一本新书.md)
-* [第二章](Chapter2/README.md)
-* [第三章](Chapter3/README.md)
-* [第四章](Chapter4/README.md)
+* [RocketMQ](RocketMQ/README.md)
 
