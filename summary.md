@@ -8,3 +8,5 @@
     * [第4节：用 GitHub + GitBook 发布一本新书](Gitbook使用/04用 GitHub + GitBook 发布一本新书.md)
 * [RocketMQ](RocketMQ/README.md)
 
+    - [为什么要使用MQ消息中间件](RocketMQ/01为什么要使用MQ消息中间件.md)
+
